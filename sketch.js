@@ -10,6 +10,6 @@ function setup() {
 // Draw code goes here
 function draw() {
   background(0);
-  fill(255)
-  text('Hello World' ,width/2, height/2)
+  fill(255,0,300)
+  text('Hello World' ,width/2, 130)
 }
